@@ -49,7 +49,7 @@ function Sidebar({ activeSection }) {
         <img src={profileImg} alt="Profile" className="profile-img" />
 
         <h1 className="sidebar-name">Uma Vasanta Sai Krishna Gangineni</h1>
-        <p className="sidebar-role">Data Analyst</p>
+        <p className="sidebar-role">Software Engineer</p>
 
         <nav className="nav-menu">
           {navItems.map((item) => (
