@@ -1,4 +1,4 @@
-#  My Portfolio — Sai Krishna
+#  My Portfolio 
 
 A personal developer portfolio built with **React.js + Vite**, deployed on **GitHub Pages**.
 
