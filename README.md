@@ -6,7 +6,7 @@ A personal developer portfolio built with **React.js + Vite**, deployed on **Git
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React.js** — Component-based UI
 - **Vite** — Fast build tool and dev server
@@ -44,9 +44,9 @@ npm run dev
 
 ##  Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saikrishna-gangineni/)
-- 📧 your-emailuvsk@gmail.com
-- 🌐 [Portfolio](https://saikrishna-1299.github.io/my-portfolio)
+-  [LinkedIn](https://www.linkedin.com/in/saikrishna-gangineni/)
+-  your-emailuvsk@gmail.com
+-  [Portfolio](https://saikrishna-1299.github.io/my-portfolio)
 
 ---
 
