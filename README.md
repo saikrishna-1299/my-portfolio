@@ -1,16 +1,53 @@
-# React + Vite
+#  My Portfolio — Sai Krishna
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal developer portfolio built with **React.js + Vite**, deployed on **GitHub Pages**.
 
-Currently, two official plugins are available:
+ **Live Site:** [saikrishna-1299.github.io/my-portfolio](https://saikrishna-1299.github.io/my-portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js** — Component-based UI
+- **Vite** — Fast build tool and dev server
+- **CSS** — Custom hand-crafted styling (no UI libraries)
+- **GitHub Pages** — Hosting and deployment
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+- About Me section
+- Projects showcase
+- Skills overview
+- Contact section
+- Fully responsive design
+
+---
+
+##  Getting Started Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/saikrishna-1299/my-portfolio.git
+
+# Navigate into the project
+cd my-portfolio
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+---
+
+##  Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikrishna-gangineni/)
+- 📧 your-emailuvsk@gmail.com
+- 🌐 [Portfolio](https://saikrishna-1299.github.io/my-portfolio)
+
+---
+
+> Built by Sai Krishna
